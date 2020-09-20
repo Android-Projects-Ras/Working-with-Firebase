@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533262338499",
+    "firebase_url": "https://working-with-firebase-b6235.firebaseio.com",
+    "project_id": "working-with-firebase-b6235",
+    "storage_bucket": "working-with-firebase-b6235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533262338499:android:c9507d567e65d57cb71576",
+        "android_client_info": {
+          "package_name": "com.rogok.working_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533262338499-419gnnnrv8g7ukhqiqubfnfof6voaalo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzxmpXBR8dUn7LCtGbq5VSpmOc5LfbXYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533262338499-419gnnnrv8g7ukhqiqubfnfof6voaalo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
